@@ -37,16 +37,20 @@ Transistor Network](https://ieeexplore.ieee.org/document/10323691)," in *Proceed
 
 ### Compile with Visual Studio 2019
 - Set up a new Linux project in Visual Studio 2019;
+
 ![image](https://github.com/FCHXWH/MiniTNtk-An-Exact-Synthesis-based-Method-for-Minimizing-Transistor-Network/assets/37615445/410287f3-0678-4659-8342-0afcc9d7148c)
 
 - Add all source files into the project;
+  
 ![image](https://github.com/FCHXWH/MiniTNtk-An-Exact-Synthesis-based-Method-for-Minimizing-Transistor-Network/assets/37615445/de3b0c7f-bc4a-4e60-80a0-bc38bda17abf)
 
 - Configure Include path;
+  
 ![image](https://github.com/FCHXWH/MiniTNtk-An-Exact-Synthesis-based-Method-for-Minimizing-Transistor-Network/assets/37615445/71820ecb-8f11-432d-a503-ec99c3129900)
 
 - Compile & generate executable file (MiniTNtk.out).
 
 ## How to use
 - Use `MiniTNtk.out --help`
+
   ![image](https://github.com/FCHXWH/MiniTNtk-An-Exact-Synthesis-based-Method-for-Minimizing-Transistor-Network/assets/37615445/ba90609c-151f-4887-8ea8-2ca4378f4f92)
