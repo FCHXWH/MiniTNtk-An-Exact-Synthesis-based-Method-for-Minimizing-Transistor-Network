@@ -1,0 +1,1 @@
+# MiniTNtk-An-Exact-Synthesis-based-Method-for-Minimizing-Transistor-Network
