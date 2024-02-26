@@ -4,7 +4,7 @@ Transistor network minimization is an important step in designing new standard c
 
 ## Reference paper:
 [1] **Weihua Xiao**, Shanshan Han, Yue Yang, Shaoze Yang, Cheng Zheng, Jingsong Chen, Tingyuan Liang, Lei Li, and Weikang Qian, "[MiniTNtk: An Exact Synthesis-based Method for Minimizing
-Transistor Network]," in *Proceedings of the 2023 International Conference on Computer Aided Design (ICCAD)*, San Francisco, CA, USA, 2023, pp. 01-09.
+Transistor Network](https://ieeexplore.ieee.org/document/10323691)," in *Proceedings of the 2023 International Conference on Computer Aided Design (ICCAD)*, San Francisco, CA, USA, 2023, pp. 01-09.
 
 ## Requirements
 - OS: 64-bit Windows/Linux
